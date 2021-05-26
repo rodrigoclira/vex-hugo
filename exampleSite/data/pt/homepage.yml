@@ -1,17 +1,17 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
+  title : "Maserfel Móveis e Eletros"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
   image : "images/watch.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Ver todos produtos"
    link : "products"
 
 ############################# Feature ############################
 features:
-  enable : true
+  enable : false
   title : "Our Core Features"
   image : "images/watch-2.png"
 
@@ -53,7 +53,7 @@ features:
 
 ############################# promo ############################
 promo:
-  enable : true
+  enable : false
   image : "images/watch.png"
   title : "Designed by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
@@ -64,7 +64,7 @@ promo:
 
 ############################# About Product #######################
 about_product:
-  enable : true
+  enable : false
   title : "Why Choose Apple Watch"
   items:
     # about product item loop
@@ -93,12 +93,12 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Ver todos os produtos"
 
 
 ################################## Subscription ###################
 subscription:
-  enable : true
+  enable : false
   bg_image : "images/call-to-action.jpg"
   title : "Get Product Updates"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -107,7 +107,7 @@ subscription:
 
 ############################## Testimonial ##########################
 testimonial:
-  enable : true
+  enable : false
   title : "Watch Review"
   testimonial_item:
     # testimonial item loop
